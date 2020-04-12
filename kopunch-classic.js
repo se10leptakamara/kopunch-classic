@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Kopunch Classic
-// @version      0.1
+// @version      0.1.1
 // @description  Classic Facepunch feel for Ott's Kopunch
 // @author       i_speel_good
-// @match        https://ott.works:8443/*
+// @match        *://*.kopunch.club/*
+// @match        *://kopunch.club/*
 // @grant        none
 // ==/UserScript==
 
